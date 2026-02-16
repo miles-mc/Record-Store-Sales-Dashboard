@@ -1,0 +1,62 @@
+Record Store Sales Log 
+
+Carol  Album: “Rumours”  £4.50  Guildford  Cash  9528512  05/12/2024
+Frank  Album: “The Dark Side of the Moon”  £4.50  Epsom  Card  1575577  12/08/2024
+Dave  Album: “Goodbye Yellow Brick Road”  £3.50  Woking  Card  1575577  15/09/2024
+Bob  Album: “Rumours”  £3.00  Epsom  Cash  4766371  05/12/2024
+Carol  Album: “Goodbye Yellow Brick Road”  £3.50  Woking  Card  1575577  05/12/2024
+Bob  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Ivy  Album: “(What’s the Story) Morning Glory?”  £3.00  Guildford  Cash  9625482  20/10/2024
+Frank  Album: “Hotel California”  £3.50  Guildford  Card  1575577  01/11/2024
+Hank  Album: “Rumours”  £3.50  Redhill  Card  1575577  12/08/2024
+Jack  Album: “A Night at the Opera”  £2.50  Woking  Cash  1713895  12/08/2024
+Tina  Album: “Rumours”  £3.50  Redhill  Card  1575577  12/08/2024
+Olivia  Album: “Rumours”  £4.50  Guildford  Cash  9528512  05/12/2024
+Alice  Album: “(What’s the Story) Morning Glory?”  £3.00  Guildford  Cash  9625482  20/10/2024
+Daniel  Album: “The Dark Side of the Moon”  £4.50  Epsom  Card  1575577  12/08/2024
+Laura  Album: “A Night at the Opera”  £2.50  Woking  Cash  1713895  12/08/2024
+Quinn  Album: “A Night at the Opera”  £2.50  Woking  Cash  1713895  12/08/2024
+Ian  Album: “Rumours”  £3.50  Woking  Card  1575577  15/09/2024
+Katie  Album: “A Night at the Opera”  £2.50  Woking  Cash  1713895  12/08/2024
+Alice  Album: “Rumours”  £3.50  Woking  Card  1575577  15/09/2024
+Finn  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Holly  Album: “Rumours”  £3.00  Epsom  Cash  4766371  05/12/2024
+Chloe  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Ian  Album: “The Dark Side of the Moon”  £4.50  Epsom  Card  1575577  12/08/2024
+Grace  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Alice  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Xander  Album: “Rumours”  £3.50  Redhill  Card  1575577  12/08/2024
+Ella  Album: “Hotel California”  £3.50  Guildford  Card  1575577  01/11/2024
+Jade  Album: “A Night at the Opera”  £2.50  Woking  Cash  1713895  12/08/2024
+Penny  Album: “Hotel California”  £3.50  Guildford  Card  1575577  01/11/2024
+Will  Album: “(What’s the Story) Morning Glory?”  £3.00  Guildford  Cash  9625482  20/10/2024
+Xander  Album: “Rumours”  £4.50  Guildford  Cash  9528512  05/12/2024
+Zoe  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Kyle  Album: “Hotel California”  £3.50  Guildford  Card  1575577  01/11/2024
+Ryan  Album: “Rumours”  £3.50  Redhill  Card  1575577  12/08/2024
+Nina  Album: “Hotel California”  £3.50  Guildford  Card  1575577  01/11/2024
+Aaron  Album: “(What’s the Story) Morning Glory?”  £3.00  Guildford  Cash  9625482  20/10/2024
+Sophie  Album: “Rumours”  £3.50  Woking  Card  1575577  15/09/2024
+Harry  Album: “A Night at the Opera”  £2.50  Woking  Cash  1713895  12/08/2024
+Jade  Album: “Rumours”  £3.50  Woking  Card  1575577  05/12/2024
+Sophie  Album: “The Dark Side of the Moon”  £4.50  Epsom  Card  1575577  12/08/2024
+Jake  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Ethan  Album: “Rumours”  £3.50  Woking  Card  1575577  05/12/2024
+Noah  Album: “Rumours”  £3.00  Epsom  Cash  4766371  05/12/2024
+Quinn  Album: “Rumours”  £4.50  Guildford  Cash  9528512  05/12/2024
+Sophie  Album: “Rumours”  £3.50  Redhill  Card  1575577  12/08/2024
+Laura  Album: “The Dark Side of the Moon”  £4.50  Epsom  Card  1575577  12/08/2024
+Laura  Album: “(What’s the Story) Morning Glory?”  £3.00  Guildford  Cash  9625482  20/10/2024
+Katie  Album: “Rumours”  £3.50  Woking  Card  1575577  15/09/2024
+Tom  Album: “Rumours”  £3.00  Epsom  Cash  4766371  05/12/2024
+Ian  Album: “A Night at the Opera”  £2.50  Woking  Cash  1713895  12/08/2024
+Isla  Album: “The Dark Side of the Moon”  £4.50  Epsom  Card  1575577  12/08/2024
+Ruby  Album: “Rumours”  £3.50  Woking  Card  1575577  05/12/2024
+Ella  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Tom  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Finn  Album: “Hotel California”  £3.50  Woking  Cash  1713895  12/08/2024
+Liam  Album: “Rumours”  £3.50  Woking  Card  1575577  15/09/2024
+Zack  Album: “Rumours”  £3.50  Woking  Card  1575577  05/12/2024
+Alice  Album: “The Dark Side of the Moon”  £4.50  Epsom  Card  1575577  12/08/2024
+Ethan  Album: “Rumours”  £3.50  Woking  Card  1575577  05/12/2024
+Isla  Album: “Rumours”  £4.50  Guildford  Cash  9528512  05/12/2024
